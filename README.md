@@ -13,12 +13,10 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
 📫 How to reach me...
 - Through my Discord (xyloblonk)
 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-  <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/itzxyloyk/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxyloyk&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -32,7 +30,6 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
           alt="itzxyloyk :: Top Langs by commit" />
           </a>
         </p>
-  <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/itzxyloyk/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=itzxyloyk&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -42,8 +39,6 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
      <br>
      </samp>
   </div>    
-
-  <summary>📈 Latest Activity Graph</summary>
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
