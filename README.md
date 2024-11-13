@@ -10,7 +10,7 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
 - Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
 
 📫 How to reach me...
-- Through my Discord (xyloblonk)
+- Through my Discord (xyloblonk) 
 <img src="https://discord-readme-badge.vercel.app/api?id=1232580161631813683"></img>
 
   <div>
