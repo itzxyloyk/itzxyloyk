@@ -1,13 +1,20 @@
 
 ![image](https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true)
-# Hi, I'm Xylo! 👋
+<p align="center">
+    <b>
+        Hi, I'm Xylo! 👋
+    </b>
+</p>
 
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/1232580161631813683"></img>
 </p>
 
 
-## 🚀 About Me
+<p align="center">
+    <b>🚀 About Me
+    </b>
+</p>
 I'm a developer, hacker, cyber security specialist, and freelancer.
 - He/Him/His
 - 20 Years Old
