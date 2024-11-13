@@ -1,4 +1,4 @@
-![image](https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true)
+<img src="https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true" style="border: 2px;"></img>
 <h2 align="center">
         Hi, I'm Xylo! 👋
 </h2>
