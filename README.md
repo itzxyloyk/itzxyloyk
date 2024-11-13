@@ -2,6 +2,11 @@
 ![image](https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true)
 # Hi, I'm Xylo! 👋
 
+  <center>
+    <img src="https://lanyard.cnrad.dev/api/1232580161631813683"></img>
+  </center>
+
+
 ## 🚀 About Me
 I'm a developer, hacker, cyber security specialist, and freelancer.
 - He/Him/His
@@ -10,8 +15,9 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
 - Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
 
 ## You can reach me through my Discord: 
-
-<img src="https://lanyard.cnrad.dev/api/1232580161631813683"></img>
+  <center>
+    <img src="https://lanyard.cnrad.dev/api/1232580161631813683"></img>
+  </center>
 
   <div>
   <samp>
