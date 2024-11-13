@@ -1,4 +1,4 @@
-<img src="https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true" style="border: 10px solid black;"></img>
+<img src="https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true"></img>
 <h2 align="center">
         Hi, I'm Xylo! 👋
 </h2>
