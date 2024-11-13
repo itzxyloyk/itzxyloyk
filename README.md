@@ -14,6 +14,8 @@
         <p align="center">
             I'm a developer, hacker, cyber security specialist, and freelancer.    
         </p>
+
+<div class="toc-no-bullet-points">
         <ul align="center">
                 <li>
                   He/Him/His
@@ -25,6 +27,7 @@
                   Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
                 </li>
         </ul>
+</div>
 
   <div>
   <samp>
