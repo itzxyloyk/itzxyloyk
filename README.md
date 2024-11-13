@@ -11,7 +11,7 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
 
 ## You can reach me through my Discord: 
 
-<img src="https://discord-readme-badge.vercel.app/api?id=1232580161631813683"></img>
+<img src="https://lanyard.cnrad.dev/api/1232580161631813683"></img>
 
   <div>
   <samp>
