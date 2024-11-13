@@ -12,10 +12,10 @@
 <h2 align="center">
     🚀 About Me
 </h2>
-        <p>
+        <p align="center">
             I'm a developer, hacker, cyber security specialist, and freelancer.    
         </p>
-        <ul>
+        <ul align="center">
                 <li>
                   He/Him/His
                 </li>
