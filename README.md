@@ -12,11 +12,20 @@
 <h2 align="center">
     🚀 About Me
 </h2>
-I'm a developer, hacker, cyber security specialist, and freelancer.
-- He/Him/His
-- 20 Years Old
-- Learning API Development
-- Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
+        <p>
+            I'm a developer, hacker, cyber security specialist, and freelancer.    
+        </p>
+        <ul>
+                <li>
+                  He/Him/His
+                </li>
+                <li>
+                  Learning API Development
+                </li>
+                <li>
+                  Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
+                </li>
+        </ul>
 
   <div>
   <samp>
