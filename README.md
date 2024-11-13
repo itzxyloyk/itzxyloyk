@@ -5,46 +5,13 @@
 
 ## 🚀 About Me
 I'm a developer, hacker, cyber security specialist, and freelancer.
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-- Hopper Client
-- Hopper Launcher
-- Hopper Installer
-- Spotify Premium Installer
-- YouTube AntiAd Desktop
-
-🧠 I'm currently learning...
-- API Development
+- He/Him/His
+- 20 Years Old
+- Learning API Development
+- Using HTML, CSS, JavaScript, Python, Java, Kotlin, Ruby, Rails, Google Cloud, Cloudflare, Azure SDK/DevOps, Linux, VMWare, Kubernetes (K8s), Scripting
 
 📫 How to reach me...
-- Through my Discord (itzxyloyk)
-
-😄 Pronouns...
-- He/Him
-
-⚡️ Fun fact...
-- I started programming and hacking at 7 years old
-
-
-## 🛠 Skills
-- HTML, CSS
-- JavaScript, Python
-- Java, Kotlin
-- Ruby, Rails
-- Google Cloud, Cloudflare, Azure SDK/DevOps
-- Linux, VMWare, Kubernetes (K8s), Scripting
-
-
-## HopperMC Optimizations
-
-- Formatting
-- Debugging
-- Rewriting Render Engines (Lighting, Chunk, Parralel Processing, etc)
-- Updated JVM Args
-- Improvements to JVM
-
+- Through my Discord (xyloblonk)
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -91,11 +58,3 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
 <br/>
   </samp>
   </details>
-
-
-## Roadmap
-
-- Release Beta minecraft client
-
-- Add more integrations into APIs and CLIs
-
