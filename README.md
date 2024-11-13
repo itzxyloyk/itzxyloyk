@@ -15,7 +15,7 @@
         <p align="center">
             I'm a developer, hacker, cyber security specialist, and freelancer.    
         </p>
-        <ul align="center">
+        <ul align="center" list-style-type="none">
                 <li>
                   He/Him/His
                 </li>
