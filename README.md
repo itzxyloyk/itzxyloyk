@@ -1,4 +1,8 @@
-
+  <style>
+ul {
+  list-style: none;
+}
+  </style>
 ![image](https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true)
 <h2 align="center">
         Hi, I'm Xylo! 👋
@@ -59,9 +63,3 @@
   <img alt="itzxyloyk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itzxyloyk&theme=gruvbox" /></a>
 <br/>
   </samp>
-
-  <style>
-ul {
-  list-style: none;
-}
-  </style>
