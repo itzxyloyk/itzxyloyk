@@ -87,7 +87,7 @@ I'm a developer, hacker, cyber security specialist, and freelancer.
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/itzxyloyk">
-  <img alt="itzxyloyk's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=itzxyloyk&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="itzxyloyk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itzxyloyk&theme=gruvbox" /></a>
 <br/>
   </samp>
   </details>
