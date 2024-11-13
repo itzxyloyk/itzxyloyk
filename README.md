@@ -2,7 +2,9 @@
 ![image](https://github.com/itzxyloyk/itzxyloyk/blob/main/img/banner.jpg?raw=true)
 # Hi, I'm Xylo! 👋
 
+<center>
 <img src="https://discord-readme-badge.vercel.app/api?id=1232580161631813683"></img>
+</center>
 
 ## 🚀 About Me
 I'm a developer, hacker, cyber security specialist, and freelancer.
