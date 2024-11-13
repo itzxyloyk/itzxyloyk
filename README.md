@@ -15,7 +15,7 @@
         <p align="center">
             I'm a developer, hacker, cyber security specialist, and freelancer.    
         </p>
-        <ul align="center" list-style-type="none">
+        <ul align="center">
                 <li>
                   He/Him/His
                 </li>
@@ -59,3 +59,9 @@
   <img alt="itzxyloyk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itzxyloyk&theme=gruvbox" /></a>
 <br/>
   </samp>
+
+  <style>
+ul {
+  list-style: none;
+}
+  </style>
